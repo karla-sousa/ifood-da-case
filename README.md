@@ -20,13 +20,13 @@ The project uses a **real-world dataset** from **iFood**, Brazil’s largest foo
 ## 📁 Repository Structure
 
 ```
-├── case/           # Project and business case overview
-├── data/           # Raw, cleaned, and processed datasets
-├── notebooks/      # Jupyter notebooks for EDA, clustering, classification, environment info
-├── report/         # EDA profiling report (ydata-profiling)
-├── figures/        # Visual assets and results
+├── case/                   # Project and business case overview
+├── data/                   # Raw, cleaned, and processed datasets
+├── notebooks/              # Jupyter notebooks for EDA, clustering, classification, environment info
+├── report/                 # EDA profiling report (ydata-profiling)
+├── figures/                # Visual assets and results
 ├── MSc-Final-Project.pdf   # Final MSc thesis report
-└── README.md       # This file
+└── README.md               # This file
 ```
 
 ---
